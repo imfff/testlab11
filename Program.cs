@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using static System.Console;
+﻿using static System.Console;
 
 Console.WriteLine("Hello!Fu Hong!");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
@@ -7,7 +6,7 @@ Console.WriteLine("Version: {0}", Environment.Version.ToString());
 // First string array
 string[] names;
 names = new string[4];
-names[0] = "eeMichael"; 
+names[0] = "MMichael"; 
 names[1] = "Sarah";
 names[2] = "William";
 names[3] = "Emma";
